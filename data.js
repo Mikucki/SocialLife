@@ -23,7 +23,7 @@ export const tweetsData = [
       {
         handle: `@greg `,
         profilePic: `images/greg.jpg`,
-        tweetText: `I liked this tweet`,
+        tweetText: `I liked this SocialMEEESSS`,
       },
       {
         handle: `@dubzy`,
