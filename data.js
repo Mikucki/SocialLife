@@ -59,4 +59,98 @@ export const tweetsData = [
     isRetweeted: false,
     uuid: "8hy671sff-c0f5-4545-9c4b-1237gyys45",
   },
+  //dadadadatataaaaaaaaaaaaaaaaaaaaaaaaaaa
+  {
+    handle: `@Sam Altman`,
+    profilePic: `images/alala.jpg`,
+    likes: 3131,
+    retweets: 23,
+    tweetText: `"Just buy more Tesla, $TSLA, stock if you want to cash in on the ChatGPT-driven surge for AI tech," Cathie Wood has said per BI.`,
+    replies: [
+      {
+        handle: `@Hbig bull ☣️`,
+        profilePic: `images/bull.jpg`,
+        tweetText: `I agree with the “just buy TSLA” part 🚗🚀`,
+      },
+      {
+        handle: `@somones dad`,
+        profilePic: `images/dad.jpg`,
+        tweetText: `I have $9 left bro`,
+      },
+    ],
+    isLiked: false,
+    isRetweeted: false,
+    uuid: "8hy671sff-c0f5-4545-9c4b-1237gaas45",
+  },
+  {
+    handle: `@Biden ? Fake`,
+    profilePic: `images/emoji.jpg`,
+    likes: 1252,
+    retweets: 21,
+    tweetText: `My budget will cut the deficit by $2 trillion over 10 years while investing in America, lowering costs, and strengthening Social Security and Medicare.
+    If you add up the Republicans’ proposals, they would add another $3 trillion to the deficit over 10 years.`,
+    replies: [
+      {
+        handle: `@Emilly Miller`,
+        profilePic: `images/eye.jpg`,
+        tweetText: `Use it for Medicare for ALL! Like we’ve been asking for decades. High speed rail would be nice too.`,
+      },
+      {
+        handle: `@Mark`,
+        profilePic: `images/guu.jpg`,
+        tweetText: `Could you post the source of this budget estimate?`,
+      },
+    ],
+    isLiked: false,
+    isRetweeted: false,
+    uuid: "8hy671sff-c0b5-4545-9c4b-1237gyys45",
+  },
+  {
+    handle: `@Herpold bold`,
+    profilePic: `images/human.jpg`,
+    likes: 1,
+    retweets: 1,
+    tweetText: `i have been a good bing
+    🥺
+ 👉👈`,
+    replies: [
+      {
+        handle: `@Haappy`,
+        profilePic: `images/musk.jpg`,
+        tweetText: `chatbots eat entertainment before anything, if the people who owned them would just let it happen`,
+      },
+      {
+        handle: `@Saddyyy`,
+        profilePic: `images/r.jpg`,
+        tweetText: `i have been a bad bing
+        👿
+   👉🔥👈`,
+      },
+    ],
+    isLiked: false,
+    isRetweeted: false,
+    uuid: "8hy671sff-a0f5-4545-9c4b-1237gyys45",
+  },
+  {
+    handle: `@GWhale`,
+    profilePic: `images/whale.png`,
+    likes: 1929,
+    retweets: 202,
+    tweetText: `Companies are using layoffs to cut new-hire salaries and win back the power they held before the pandemic, per BI.`,
+    replies: [
+      {
+        handle: `@DamnsonNn`,
+        profilePic: `images/wold.jpg`,
+        tweetText: `my offer got revised up though? was confused`,
+      },
+      {
+        handle: `@ASccess`,
+        profilePic: `images/wowo.jpg`,
+        tweetText: `That is their right and a consequence of not being in a union.`,
+      },
+    ],
+    isLiked: false,
+    isRetweeted: false,
+    uuid: "8hy671sff-c0f5-4545-9c4b-1237gsss45",
+  },
 ];
